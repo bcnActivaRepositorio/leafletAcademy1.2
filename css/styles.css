@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+#myMap {
+    width: 30rem;
+    height: 30rem;
+}
+/* .leaflet-popup-content{
+ width: 200px !important;
+ height: auto !important;
+} */
